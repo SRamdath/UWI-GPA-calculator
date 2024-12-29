@@ -1,4 +1,4 @@
-Written by Simon Ramdath in year 2 of UWI, which is about 6 years ago? Interestingly, implementing option 3 wasn't too trivial. Its like those fill the boxes problems.
+Written by Simon Ramdath in year 2 of UWI, which is like, 2018? Interestingly, implementing option 3 wasn't too trivial. Its like those fill the boxes problems.
 
 Grade   | Quality Points | Marks Range
 --------------------------------------
